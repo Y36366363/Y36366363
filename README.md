@@ -38,10 +38,10 @@ evaluation, and reproducible computational experiments.
 
 | Project | Focus | Current stage |
 |---|---|---|
-| [Asymmetric Information Puzzles](https://github.com/Y36366363/Asymmetric_Information_Puzzles) | Auditable strategic-agent evaluation and cross-game transfer research, with exact solvers, scoped exploitability checks, and reproducible experiments | Active research |
-| [Population Sandbox](https://github.com/Y36366363/Population_simu) | A focused empirical and household-simulation study of housing, childcare burdens, and fertility across U.S. states and years | Research scoping |
+| [Asymmetric Information Puzzles](https://github.com/Y36366363/Asymmetric_Information_Puzzles) | Strategic AI evaluation and cross-game transfer | Active research |
+| [Population Sandbox](https://github.com/Y36366363/Population_simu) | Housing, childcare, and fertility with household simulation | Research scoping |
 | [Psycho Agent](https://github.com/Y36366363/Psycho_Agent) | Safety-bounded human–AI support with synthetic evaluation | Exploratory research |
-| [Mahjong Card Reader](https://github.com/Y36366363/Mahjong_card_reader) | Multilingual computer-vision application for browser and desktop use | Engineering showcase |
+| [Mahjong Card Reader](https://github.com/Y36366363/Mahjong_card_reader) | Multilingual Riichi Mahjong analysis, scoring, and gameplay | Engineering showcase |
 | [C-Delta Simulation](https://github.com/Y36366363/c_delta_simulation) | Robust-reference divergence profiles and statistical sensitivity analysis | Manuscript development |
 
 More detailed project descriptions and demos are available on my
