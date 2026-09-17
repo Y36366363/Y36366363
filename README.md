@@ -38,11 +38,11 @@ evaluation, and reproducible computational experiments.
 
 | Project | Focus | Current stage |
 |---|---|---|
-| [C-Delta Simulation](https://github.com/Y36366363/c_delta_simulation) | Robust-reference divergence profiles and statistical sensitivity analysis | Manuscript development |
-| [Asymmetric Information Puzzles](https://github.com/Y36366363/Asymmetric_Information_Puzzles) | Auditable evaluation of strategic agents under asymmetric information | Active research |
-| [Population Sandbox](https://github.com/Y36366363/Population_simu) | Agent-based demographic simulation for focused population questions | Research scoping |
+| [Asymmetric Information Puzzles](https://github.com/Y36366363/Asymmetric_Information_Puzzles) | Auditable strategic-agent evaluation and cross-game transfer research, with exact solvers, scoped exploitability checks, and reproducible experiments | Active research |
+| [Population Sandbox](https://github.com/Y36366363/Population_simu) | A focused empirical and household-simulation study of housing, childcare burdens, and fertility across U.S. states and years | Research scoping |
 | [Psycho Agent](https://github.com/Y36366363/Psycho_Agent) | Psychologically informed human–AI interaction prototype | Exploratory research |
 | [Mahjong Card Reader](https://github.com/Y36366363/Mahjong_card_reader) | Multilingual computer-vision application for browser and desktop use | Engineering showcase |
+| [C-Delta Simulation](https://github.com/Y36366363/c_delta_simulation) | Robust-reference divergence profiles and statistical sensitivity analysis | Manuscript development |
 
 More detailed project descriptions and demos are available on my
 [project portfolio](https://y36366363.github.io/projects.html).
