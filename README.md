@@ -1,11 +1,9 @@
 <div align="center">
 
 # 3D rainbow castle
-![Rainbow Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B6B,20:FFB86C,40:FFE66D,60:6BCB77,80:4D96FF,100:B983FF&text=Jialiang%20Yao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20%7C%20AI%20Agents%20%7C%20Simulation&descAlignY=60&descSize=17)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF6B6B,20:FFB86C,40:FFE66D,60:6BCB77,80:4D96FF,100:B983FF&text=Jialiang%20Yao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Master%27s%20Student%20at%20the%20University%20of%20North%20Carolina%20at%20Chapel%20Hill&descAlignY=51&descSize=15" width="100%" alt="Jialiang Yao Rainbow Header"/>
 
-# Jialiang Yao
-
-**Master’s Student at the University of North Carolina at Chapel Hill**
+**Statistical inference · AI-agent evaluation · Simulation · Human-centered decision support**
 
 Statistical inference · AI-agent evaluation · Simulation · Human-centered decision support
 
