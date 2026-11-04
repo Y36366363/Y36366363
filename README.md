@@ -1,7 +1,7 @@
 <div align="center">
 
 # 3D rainbow castle
-![](https://vercel.app)
+![Rainbow Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B6B,20:FFB86C,40:FFE66D,60:6BCB77,80:4D96FF,100:B983FF&text=Jialiang%20Yao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20%7C%20AI%20Agents%20%7C%20Simulation&descAlignY=60&descSize=17)
 
 # Jialiang Yao
 
