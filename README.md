@@ -1,5 +1,7 @@
 <div align="center">
 
+[![GitHub Streak](https://demolab.com)](https://git.io)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF6B6B,20:FFB86C,40:FFE66D,60:6BCB77,80:4D96FF,100:B983FF&text=Jialiang%20Yao&fontSize=48&fontColor=1F2937&animation=fadeIn&fontAlignY=32&desc=Statistical%20inference%20%C2%B7%20AI-agent%20evaluation%20%C2%B7%20Simulation%20%C2%B7%20Human-centered%20decision%20support&descAlignY=52&descSize=13" width="100%" alt="Jialiang Yao Rainbow Header"/>
 
 **Master's Student at the University of North Carolina at Chapel Hill**
