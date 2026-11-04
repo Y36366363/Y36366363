@@ -72,7 +72,10 @@ decision-making.
 
 Email: [jlyao@unc.edu](mailto:jlyao@unc.edu)
 
-  <img
-    src="https://streak-stats.demolab.com?user=Y36366363&theme=radical&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+<div align="center">
+
+  <h3>🔥 GitHub Contribution Streak</h3>
+
+  <img src="https://streak-stats.demolab.com?user=Y36366363&theme=default&hide_border=true&ring=FF6B6B&fire=FFB86C&currStreakNum=FF6B6B&sideNums=4D96FF&currStreakLabel=B983FF&sideLabels=6BCB77" alt="GitHub Streak Stats" />
+
+</div>
