@@ -37,10 +37,10 @@ evaluation, and reproducible computational experiments.
 | Project | Focus | Current stage |
 |---|---|---|
 | [Asymmetric Information Puzzles](https://github.com/Y36366363/Asymmetric_Information_Puzzles) | Strategic AI evaluation and cross-game transfer | Active research |
+| [Mafia Werewolf Lab](https://github.com/Y36366363/Mafia_Werewolf_Lab) | Strategic communication and team coordination in hidden-role games | Active research |
 | [Population Sandbox](https://github.com/Y36366363/Population_simu) | Housing, childcare, and fertility with household simulation | Research scoping |
 | [Psycho Agent](https://github.com/Y36366363/Psycho_Agent) | Safety-bounded human–AI support with synthetic evaluation | Exploratory research |
 | [Mahjong Card Reader](https://github.com/Y36366363/Mahjong_card_reader) | Multilingual Riichi Mahjong analysis, scoring, and gameplay | Engineering showcase |
-| [Shizhi Cooking Agent](https://github.com/Y36366363/Cooking_Starter) | Constraint-aware bilingual cooking assistance for induction-hob beginners | Engineering prototype |
 | [C-Delta Simulation](https://github.com/Y36366363/c_delta_simulation) | Robust-reference divergence profiles and statistical sensitivity analysis | Manuscript development |
 
 More detailed project descriptions and demos are available on my
